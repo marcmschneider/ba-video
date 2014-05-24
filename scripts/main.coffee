@@ -2,15 +2,15 @@ videoElement = $ '#video'
 video = videoElement[0]
 
 videoList = [
-	"assets/videos/xx_1.mp4",
-	"assets/videos/xx_2.mp4",
-	"assets/videos/xx_3.mp4"
+	"assets/videos/1.mp4",
+	"assets/videos/2.mp4",
+	"assets/videos/3.mp4"
 ]
 
 keyList = [
-	49,	# 1
-	50,	# 2
-	51	# 3
+	55,	# 7
+	56,	# 8
+	57	# 9
 ]
 
 $(document).ready ->

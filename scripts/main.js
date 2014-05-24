@@ -6,9 +6,9 @@
 
   video = videoElement[0];
 
-  videoList = ["assets/videos/xx_1.mp4", "assets/videos/xx_2.mp4", "assets/videos/xx_3.mp4"];
+  videoList = ["assets/videos/1.mp4", "assets/videos/2.mp4", "assets/videos/3.mp4"];
 
-  keyList = [49, 50, 51];
+  keyList = [55, 56, 57];
 
   $(document).ready(function() {
     video.onended = function() {
