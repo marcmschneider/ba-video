@@ -1,0 +1,8 @@
+{
+  "name": "ba-video",
+  "version": "0.0.0",
+  "dependencies": {
+    "screenfull": "~1.2.1",
+    "jquery": "~2.1.1"
+  }
+}

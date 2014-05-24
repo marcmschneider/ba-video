@@ -6,7 +6,7 @@
 
   video = videoElement[0];
 
-  videoList = ["assets/videos/Final_1.mp4", "assets/videos/Final_1.mp4", "assets/videos/Final_1.mp4"];
+  videoList = ["assets/videos/xx_1.mp4", "assets/videos/xx_2.mp4", "assets/videos/xx_3.mp4"];
 
   keyList = [49, 50, 51];
 
