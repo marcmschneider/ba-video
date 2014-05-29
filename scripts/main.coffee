@@ -2,9 +2,9 @@ videoElement = $ '#video'
 video = videoElement[0]
 
 videoList = [
-	"assets/videos/1.mp4",
-	"assets/videos/2.mp4",
-	"assets/videos/3.mp4"
+	"assets/videos/Blind-Trust_Alcohol.mp4",
+	"assets/videos/Blind-Trust_Testosteron.mp4",
+	"assets/videos/Blind-Trust_Style.mp4"
 ]
 
 keyList = [
