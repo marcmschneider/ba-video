@@ -7,7 +7,7 @@ video = videoElement[0];
 
 videoList = ["assets/videos/Blind-Trust_Alcohol.mp4", "assets/videos/Blind-Trust_Testosteron.mp4", "assets/videos/Blind-Trust_Style.mp4"];
 
-keyList = [55, 56, 57];
+keyList = [113, 51, 55];
 
 $(document).ready(function() {
   video.onended = function() {

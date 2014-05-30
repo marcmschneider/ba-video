@@ -8,9 +8,9 @@ videoList = [
 ]
 
 keyList = [
-	55,	# 7
-	56,	# 8
-	57	# 9
+	113,	#q
+	51,		#3
+	55		#7
 ]
 
 $(document).ready ->
