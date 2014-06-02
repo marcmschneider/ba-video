@@ -10,8 +10,11 @@ videoList = ["assets/videos/Blind-Trust_Alcohol.mp4", "assets/videos/Blind-Trust
 keyList = [113, 51, 55];
 
 $(document).ready(function() {
+  video.src = 'assets/videos/image.mp4';
+  video.play();
   video.onended = function() {
-    return video.src = '';
+    video.src = 'assets/videos/image.mp4';
+    return video.play();
   };
   return $(document).keypress(function(e) {
     console.log(e.keyCode);

@@ -15,8 +15,12 @@ keyList = [
 
 $(document).ready ->
 
+	video.src = 'assets/videos/image.mp4'
+	video.play()
+
 	video.onended = () ->
-		video.src = ''
+		video.src = 'assets/videos/image.mp4'
+		video.play()		
 	
 	$(document).keypress (e) ->
 		console.log e.keyCode
